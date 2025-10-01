@@ -54,4 +54,6 @@ Always verify that your WTN access point is the official **wtn market url onion 
 ---
 *WTN Market is for information only — illegal activity is prohibited everywhere. Stay safe online!*
 
-Update:  18 September 2025
+
+
+Update:  01 October
